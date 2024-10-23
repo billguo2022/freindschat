@@ -1,5 +1,10 @@
 # freindschat
+
+
 this is a private chatapp for friends
+
+
+
 <img width="1364" alt="Screenshot 2024-10-22 at 8 26 36 PM" src="https://github.com/user-attachments/assets/67af9363-4efc-4542-adb6-5d513a7354ba">
 
 
